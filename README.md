@@ -22,6 +22,25 @@
 
 1. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre losvalores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
+ 0.000001Hz Hz
+Voltaje Pico (Vp) = 0 V
+
+10 Hz
+Voltaje Pico (Vp) = 10 V
+
+50 Hz
+Voltaje Pico (Vp) = 9.5 V
+
+100 Hz
+Voltaje Pico (Vp) = 6.25 V
+
+500 Hz
+Voltaje Pico (Vp) = 1.5 V
+
+1000 Hz
+Voltaje Pico (Vp) = 775mV = 0.775 V
+
+
 
 
 2. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
