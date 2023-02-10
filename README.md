@@ -13,6 +13,10 @@
 
 ## 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/117778782/217994490-0335663e-96a6-4317-b4f7-d0feb2f4c463.png)
+
+![image](https://user-images.githubusercontent.com/117778782/217994513-237fc219-f31e-4419-aa44-8c88e3d19a29.png)
+
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
 ### CIRCUITO 1 CAPACITOR
@@ -187,13 +191,41 @@ Voltaje Pico (Vp) = 5 V
 
 3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+- Si f = 0 Hz
 
+![image](https://user-images.githubusercontent.com/117778782/217993672-a1f2325a-9f07-4c72-8b38-1f27ce0bdbeb.png)
 
+IR1 = 0 A
 
+- Si f = 10 Hz
+ 
+![image](https://user-images.githubusercontent.com/117778782/217993745-62cc718b-2edb-49fa-bfde-ce37dbc688f8.png)
 
+IR1 = 0.07 A
 
+- Si f = 50 Hz
 
+![image](https://user-images.githubusercontent.com/117778782/217993861-f5649cf6-e515-484d-bb6b-ea5b9784a8bd.png)
 
+IR1 = 0.07 A
+
+- Si f = 100 Hz
+
+![image](https://user-images.githubusercontent.com/117778782/217994041-2a2e9dfa-15d8-4c35-89b0-52f5f698cb0b.png)
+ 
+IR1 = 0.06 A
+
+- Si f = 500 Hz
+
+![image](https://user-images.githubusercontent.com/117778782/217994152-9f946805-b0ef-4186-93a3-82528b26d603.png)
+
+IR1 = 0.03 A
+
+- Si f = 1000 Hz
+
+![image](https://user-images.githubusercontent.com/117778782/217994448-46c59895-7a9d-4d05-8e53-0565f54e0130.png)
+
+IR1 = 0.03 A
 
 ## 4. ANALISIS DE RESULTADOS 
 
@@ -207,9 +239,13 @@ Voltaje Pico (Vp) = 5 V
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
--  De la misma manera, debido que, al no tener Hz, no existe el periodo, por tanto, no pueden existir los ciclos sinusoidales en un determinado tiempo.
+- El campo electromagnético de un inductor guarda energía cuando se conecta a una fuente de voltaje de cd. La acumulación de corriente a través del inductor ocurre de una forma predecible, la cual depende de la constante de tiempo determinada por la inductancia y la resistencia presentes en un circuito. La inductancia aparece como un corto ante la corriente continua.
+Cuando unimos un capacitor a una fuente de corriente directa y después de cargar las placas, no fluye corriente en el capacitor. El capacitor se comporta como un circuito abierto para todos los casos.
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+- Mientras más rápido cambie la corriente que circula a través de un inductor, mayor será el voltaje inducido. Por lo tanto, si la velocidad de cambio de la corriente es de cero, el voltaje es de cero.
+Un capacitor deja pasar la corriente alterna, pero con cierta cantidad de oposición, llamada reactancia capacitiva, que depende de la frecuencia de la corriente alterna.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
@@ -217,11 +253,13 @@ Voltaje Pico (Vp) = 5 V
 
 ## 6. VIDEO
 
+LINK: 
+
 ## 7. CONCLUSIONES
 
 - El manejo de un osciloscopio, resulta de gran importancia al querer conocer el comportamiento de un voltaje con onda sinusoidal, más comúnmente utilizado en AC, por su voltaje pico, conociendo sus riesgos, y la potencia con la cual se implementará en los circuitos, de igual forma conocer este tipo de onda, es importante para posteriores rectificaciones con transformadores, aplicando sus principios
 
-- 
+- A lo largo del presente informe, fue posible reconocer que en el caso de corriente alterna un capacitor deja pasar la corriente alterna, pero con cierta cantidad de oposición, llamada reactancia capacitiva, que depende de la frecuencia de la corriente alterna, mientras que cuando unimos un capacitor a una fuente de corriente directa y después de cargar las placas, no fluye corriente en el capacitor. El capacitor se comporta como un circuito abierto para todos los casos.
 
 ## 8. BIBLIOGRAFIA
 
