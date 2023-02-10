@@ -257,7 +257,7 @@ Un capacitor deja pasar la corriente alterna, pero con cierta cantidad de oposic
 
 ## 6. VIDEO
 
-LINK: 
+LINK: https://youtu.be/wcbpOQCc6Oc
 
 ## 7. CONCLUSIONES
 
