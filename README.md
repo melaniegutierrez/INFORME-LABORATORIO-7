@@ -249,7 +249,11 @@ Un capacitor deja pasar la corriente alterna, pero con cierta cantidad de oposic
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+- Depende de los valores que les demos a las bobinas o los capacitores, en el caso de los capacitores, al estar en paralelo y darles valores distintos la capacitancia total aumentaria variando los valores de voltaje y corriente. De igual manera con la bobina, la inductancia dismuniuria al valor de la bobina mas pequeña varianfo los valores de volatje y corriente
+
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+- El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
 ## 6. VIDEO
 
