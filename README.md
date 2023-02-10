@@ -83,27 +83,39 @@ Voltaje Pico (Vp) = 775mV = 0.775 V
 
 - Si f = 0 Hz
 
+![image](https://user-images.githubusercontent.com/117778782/217975821-4410c667-106f-4049-a398-47e321a636f1.png)
 
+IR1 = 0 A
 
 - Si f = 10 Hz
 
- 
+![image](https://user-images.githubusercontent.com/117778782/217977053-66b8d10a-4b91-43a1-838c-4afffab3961d.png)
+
+IR1 = 0 A
 
 - Si f = 50 Hz
 
- 
+ ![image](https://user-images.githubusercontent.com/117778782/217977141-937e3baf-0935-4a14-9ac4-8ae35040e3d1.png)
+
+IR1 = 0.03 A
 
 - Si f = 100 Hz
 
+![image](https://user-images.githubusercontent.com/117778782/217977347-b215fa86-9f01-408a-8f71-ddf949bd9203.png)
  
+IR1 = 0.05 A
 
 - Si f = 500 Hz
 
- 
+ ![image](https://user-images.githubusercontent.com/117778782/217977429-79df6103-01ea-4222-812b-41d2c59f7106.png)
+
+IR1 = 0.07 A
 
 - Si f = 1000 Hz
 
- 
+ ![image](https://user-images.githubusercontent.com/117778782/217977630-8aa04975-eaba-49eb-876f-034516a2d10c.png)
+
+IR1 = 0.07 A
  
 ### CIRCUITO 2 INDUCTOR
 
